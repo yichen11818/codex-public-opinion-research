@@ -1,0 +1,4 @@
+interface:
+  display_name: "舆情深研"
+  short_description: "单 agent 多视角研究社会争议，核验事实、持续热度与群体观点并生成可追溯报告"
+  default_prompt: "使用 $public-opinion-research 研究这个事件，区分事实、各方主张和推断，核验是否持续跨圈层发酵，并提供来源。"
