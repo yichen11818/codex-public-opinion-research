@@ -60,7 +60,7 @@ $public-opinion-research 研究这个事件：[链接或事件名称]。
 ### 汽车制动争议
 
 ```text
-$public-opinion-research 研究今年华为相关车型的刹车争议。
+$public-opinion-research 研究今年的刹车争议。
 先区分具体事件、车型和供应关系，不要把 AEB 未触发与基础制动失效混为一谈。
 ```
 
